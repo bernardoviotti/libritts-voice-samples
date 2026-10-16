@@ -1,0 +1,16 @@
+.venv
+.vscode
+.DS_Store
+/demo/dist/
+/data/raw/libritts_p/*.csv
+/data/raw/libritts_r/train-clean-360
+/data/raw/libritts_r/speakers.tsv
+/data/raw/names/*.txt
+/data/src/__pycache__
+/data/intermediate/
+/demo/node_modules/
+TODO.md
+/usage_example/tts_example/sherpa-onnx
+/src/data_processing/__pycache__
+/src/demo/node_modules/
+/modeltemp/
