@@ -1,6 +1,7 @@
 .venv
 .vscode
 .DS_Store
+.prettierrc
 /demo/dist/
 /data/raw/libritts_p/*.csv
 /data/raw/libritts_r/train-clean-360

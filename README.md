@@ -4,6 +4,8 @@ This repository contains 626 public domain English language audio samples and as
 
 The metadata contained here is also useful for categorizing [Piper](https://github.com/OHF-voice/piper1-gpl) voices that have been trained on the LibriTTS corpus ([en_US-libritts](https://rhasspy.github.io/piper-samples/#en_US-libritts_r-medium)) using the ```piper_id``` field included for each speaker in the metadata. Note that not all voices in Piper's ```en_US-libritts_r-medium``` appear in the metadata due to not being annotated as part of the libriTTS-P corpus.
 
+Check out the demo at [LibriTTS Voice Samples Demo](https://bernardoviotti.github.io/libritts-voice-samples-demo-public/).
+
 
 # Citation
 
